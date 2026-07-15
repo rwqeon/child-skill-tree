@@ -44,13 +44,13 @@ yarn dev
 | Subject | Status |
 |---|---|
 | Computing | ✅ Complete |
+| English | ✅ Complete |
 | History | ✅ Complete |
 | Learning to Learn | ✅ Complete |
 | Life Skills | ✅ Complete |
+| Mathematics | ✅ Complete |
 | Personal & Social Development | ✅ Complete |
-| English | ❌ Pending (259 topics) |
-| Mathematics | ❌ Pending (503 topics) |
-| Science | ❌ Pending (547 topics) |
+| Science | ✅ Complete |
 
 ## Build
 
